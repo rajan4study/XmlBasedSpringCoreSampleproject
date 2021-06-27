@@ -5,8 +5,11 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 //import org.springframework.beans.factory.BeanFactory;
 
+
 /**
- * Hello world!
+ * @author rajan
+ * 
+ * @since 27Jun2021
  *
  */
 public class App 
